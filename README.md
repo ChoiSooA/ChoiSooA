@@ -24,9 +24,9 @@
   
   ### Program
   <!--Unity-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-EE4C2C?style=flat-square&logo=unity&logoColor=white"/>
   <!--Unreal-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-43B02A?style=flat-square&logo=unrealengine&logoColor=white"/>
   <br/>
   
   <!--### ETC
