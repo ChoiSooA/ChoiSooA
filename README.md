@@ -1,3 +1,48 @@
+
+<div>
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Choi%20Soo%20A%20%F0%9F%A4%97)
+  
+</div>
+
+<div>
+  <!--Body-->
+  
+  ## 👀 About Me
+  #### :raising_hand: I am a Unity Developer from South Korea. I have a Unity Association certificate.<br/>
+  #### :fire: I aim to become a Pro Unity Client Developer.<br/>
+  #### :mortar_board: NamSeoul University(NSU)
+  <br/>
+  <br/>
+  
+  ## 🧱 Tech Stack
+  ### Language
+  <!--C Sharp-->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Csharp&logoColor=white"/>
+  <br/>
+  
+  ### Program
+  <!--Unity-->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=unity&logoColor=white"/>
+  <!--Unreal-->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <br/>
+  
+  <!--### ETC
+  <!--Amazon AWS-->
+  <!--<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+  <!--Slack-->
+  <!--<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <!--MySQL-->
+  <!--<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <br/>
+  <br/>-->
+  ## 🤔 Github Stats
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSooA)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
 ## Hi there 👋
 
 <!--
