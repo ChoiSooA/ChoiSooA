@@ -26,10 +26,7 @@
   
   ### Program
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  I have a Unity Association certificate. And it has excellent technical skills to utilize Unity.
-  I have experience in VR and AR projects using Unity.
-  <br/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> I hold a Unity Associate Certificate, demonstrating strong technical proficiency in Unity. I have hands-on experience developing VR and AR projects, using Unity as the core development platform.
   <!--Unreal-->
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
   I've done face motion capture using an iPhone.
