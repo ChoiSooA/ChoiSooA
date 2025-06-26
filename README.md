@@ -28,7 +28,6 @@
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   I have a Unity Association certificate. And it has excellent technical skills to utilize Unity.
-  <br/>
   I have experience in VR and AR projects using Unity.
   <br/>
   <!--Unreal-->
