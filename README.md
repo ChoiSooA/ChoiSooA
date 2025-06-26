@@ -19,7 +19,7 @@
   ## 🧱 Tech Stack
   ### Language
   <!--C Sharp-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=c-sharp&logoColor=white"/>
+ [![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120?logo=c-sharp&logoColor=white)](#)
   <br/>
   
   ### Program
