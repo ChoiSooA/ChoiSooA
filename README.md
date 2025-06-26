@@ -19,14 +19,14 @@
   ## 🧱 Tech Stack
   ### Language
   <!--C Sharp-->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C Sharp&logoColor=white"/>
   <br/>
   
   ### Program
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-EE4C2C?style=flat-square&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=white"/>
   <!--Unreal-->
-  <img src="https://img.shields.io/badge/Unreal-43B02A?style=flat-square&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
   <br/>
   
   <!--### ETC
