@@ -19,12 +19,15 @@
   ## 🧱 Tech Stack
   ### Language
   <!--C Sharp-->
- <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=CSharp&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=CPP&logoColor=white"/>
+ 
   <br/>
   
   ### Program
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+  #### I have a Unity Association certificate. And it has excellent technical skills to utilize Unity.
   <br/>
   <!--Unreal-->
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
