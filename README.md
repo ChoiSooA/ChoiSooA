@@ -27,10 +27,13 @@
   ### Program
   <!--Unity-->
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
-  #### I have a Unity Association certificate. And it has excellent technical skills to utilize Unity.
+  I have a Unity Association certificate. And it has excellent technical skills to utilize Unity.
+  <br/>
+  I have experience in VR and AR projects using Unity.
   <br/>
   <!--Unreal-->
   <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+  I've done face motion capture using an iPhone.
   <br/>
   
   <!--### ETC
