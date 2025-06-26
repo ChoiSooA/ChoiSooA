@@ -12,7 +12,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Unity Developer from South Korea. I have a Unity Association certificate.<br/>
   #### :fire: I aim to become a Pro Unity Client Developer.<br/>
-  #### :mortar_board: NamSeoul University(NSU)
+  #### :mortar_board: NamSeoul University(NSU), Majoring in Computer Software and Virtual Augmented Reality.
   <br/>
   <br/>
   
@@ -20,33 +20,43 @@
   ### Language
   <!--C Sharp-->
  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=CSharp&logoColor=white"/>
- <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=CPP&logoColor=white"/>
+ I have enough skills to develop a Unity program for learning by myself.
+ <br/>
+ <br/>
+ <!--C++-->
+ <img src="https://img.shields.io/badge/C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=white"/>
+ <!--C-->
+ <img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white"/>
+ 
  
   <br/>
   
-  ### Program
+  ### Else
   <!--Unity-->
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> I hold a Unity Associate Certificate, demonstrating strong technical proficiency in Unity. I have hands-on experience developing VR and AR projects, using Unity as the core development platform.
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/> 
+  I hold a Unity Associate Certificate, demonstrating strong technical proficiency in Unity. I have hands-on experience developing VR and AR projects, using Unity as the core development platform.
+  <br/>
+  <br/>
   <!--Unreal-->
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
-  I've done face motion capture using an iPhone.
+  <img src="https://img.shields.io/badge/Unreal-000000?style=flat-square&logo=unrealengine&logoColor=white"/>
+   <!--Oculus-->
+  <img src="https://img.shields.io/badge/Oculus-000000?style=flat-square&logo=oculus&logoColor=white"/>
+  <!--HTC Vive-->
+  <img src="https://img.shields.io/badge/HTC Vive-000000?style=flat-square&logo=htcvive&logoColor=white"/>
+  <!--Arduino-->
+  <img src="https://img.shields.io/badge/Arduino-000000?style=flat-square&logo=arduino&logoColor=white"/>
+  <!--Blender-->
+  <img src="https://img.shields.io/badge/Blender-000000?style=flat-square&logo=blender&logoColor=white"/>
+  
+ 
+  <br/>
   <br/>
   
-  <!--### ETC
-  <!--Amazon AWS-->
-  <!--<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-  <!--Slack-->
-  <!--<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-  <!--MySQL-->
-  <!--<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>-->
   ## 🤔 Github Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSooA)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
-## Hi there 👋
 
 <!--
 **ChoiSooA/ChoiSooA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
