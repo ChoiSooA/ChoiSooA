@@ -1,1 +1,16 @@
+<!DOCTYPE html>
+<meta charset="UTF-8" />
+<title>Redirecting…</title>
+<script>
+  /* 1) 새 탭으로 열고 싶은 실제 링크 */
+  const chat = "https://open.kakao.com/o/sE8Mv4lf";
 
+  /* 2) 새 탭(또는 새 창) 열기 */
+  window.open(chat, "_blank");
+
+  /* 3) 현재 탭은 README 로 이동시키기
+        └ 뒤로가기 히스토리에 남지 않도록 replace 사용 */
+  window.location.replace(
+    "https://github.com/ChoiSooA/ChoiSooA/blob/main/README.md#💌-social"
+  );
+</script>
