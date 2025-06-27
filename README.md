@@ -2,7 +2,7 @@
 <div>
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Choi%20Soo%20A%20%F0%9F%A4%97&stroke=151c24&strokeWidth=3)
+  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Choi%20Soo%20A%20%F0%9F%A4%97&stroke=151c24&strokeWidth=3&fontColor=ffffff)
   
 </div>
 
