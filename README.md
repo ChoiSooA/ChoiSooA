@@ -19,7 +19,7 @@
 ## 💌 Social
 <a href="mailto:sinebi223@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sinebi223@naver.com"/></a>
 <a href="https://www.notion.so/Code-Study-1cb7cb1a1324808ca933d45c63fb01b3?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-%23E4405F.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Code-Study-1cb7cb1a1324808ca933d45c63fb01b3?source=copy_link"/></a>
-<a href="https://open.kakao.com/o/sE8Mv4lf" target="_blank"><img src="https://img.shields.io/badge/KakaoTalk-%23FFCD00.svg?style=for-the-badge&logoColor=white&labelColor=%23FFCD00"/></a>
+<a target="_blank" href="https://open.kakao.com/o/sE8Mv4lf"><img src="https://img.shields.io/badge/KakaoTalk-%23FFCD00.svg?style=for-the-badge&logoColor=white&labelColor=%23FFCD00"/></a>
 </a>
 <br/>
 <br/>
@@ -85,7 +85,7 @@
   <br/>
   
   ## 🤔 Github Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSooA)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSooA&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
