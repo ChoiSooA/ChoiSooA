@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <meta charset="UTF-8" />
-<title>Redirecting…</title>
+<title>Open KakaoTalk</title>
+<style>
+  body {display:flex;justify-content:center;align-items:center;height:100vh;font-family:sans-serif}
+  button {
+    padding:12px 28px;font-size:18px;font-weight:bold;color:#3C1E1E;
+    background:#FFE812;border:none;border-radius:8px;cursor:pointer;
+    box-shadow:0 4px 8px rgba(0,0,0,.15);
+  }
+</style>
+<body>
+  <button onclick="openChat()">카카오톡 오픈채팅 열기</button>
 
-<a id="auto"
-   href="https://open.kakao.com/o/sE8Mv4lf"
-   target="_blank" rel="noopener"></a>
+  <script>
+    function openChat() {
+      /* 새 탭(창)에 오픈채팅 열기 */
+      window.open("https://open.kakao.com/o/sE8Mv4lf", "_blank");
 
-<script>
-  /* 1) 해시 변경 → 사용자 제스처 연속 동작처럼 인식 */
-  location.hash = "#auto";
-
-  /* 2)  0ms 타이머로 가장 빠르게 클릭 트리거 */
-  setTimeout(() => {
-    document.getElementById("auto").click();
-    /* 3) README로 복귀 */
-    location.replace(
-      "https://github.com/ChoiSooA/ChoiSooA/blob/main/README.md#💌-social"
-    );
-  }, 0);
-</script>
+      /* 현재 탭은 README의 Social 섹션으로 즉시 복귀 */
+      location.replace(
+        "https://github.com/ChoiSooA/ChoiSooA/blob/main/README.md#💌-social"
+      );
+    }
+  </script>
+</body>
+</html>
