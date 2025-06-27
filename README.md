@@ -19,7 +19,7 @@
 ## 💌 Social
 <a href="mailto:sinebi223@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sinebi223@naver.com"/></a>
 <a href="https://www.notion.so/Code-Study-1cb7cb1a1324808ca933d45c63fb01b3?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-%23E4405F.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://www.notion.so/Code-Study-1cb7cb1a1324808ca933d45c63fb01b3?source=copy_link"/></a>
-<a target="_blank" href="https://choisooa.github.io/ChoiSooA/kakao.html"><img src="https://img.shields.io/badge/KakaoTalk-%23FFCD00.svg?style=for-the-badge&logoColor=white&labelColor=%23FFCD00"/></a>
+<a target="_blank" href="https://github.com/ChoiSooA/ChoiSooA/blob/main/docs/index.html"><img src="https://img.shields.io/badge/KakaoTalk-%23FFCD00.svg?style=for-the-badge&logoColor=white&labelColor=%23FFCD00"/></a>
 </a>
 <br/>
 <br/>
