@@ -17,8 +17,12 @@
   <br/>
 
   ## 🎙️History
-  #### 2019: 
-  #### 
+  **2019** Started majoring in Computer Software at NamSeoul University.<br/>
+  **2020** Added a second major in Virtual and Augmented Reality.<br/>
+  **2023** Joined IGE Co., Ltd. and collaborated on the development of 6 industrial safety VR training contents. Independently developed 2 VR contents focused on natural disaster safety.<br/>
+  **2025** Joined MC Media Solution and developed 6 educational programs for 3D pads using the Leia SDK.
+<br/>
+<br/>
   
 ## 💌 Social
 <a href="mailto:sinebi223@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a></a>&ensp;<a>
