@@ -15,6 +15,10 @@
   #### :mortar_board: NamSeoul University(NSU), Majoring in Computer Software and Virtual Augmented Reality.
   <br/>
   <br/>
+
+  ## 🎙️History
+  #### 2019: 
+  #### 
   
 ## 💌 Social
 <a href="mailto:sinebi223@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a></a>&ensp;<a>
