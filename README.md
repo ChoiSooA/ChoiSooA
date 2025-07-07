@@ -27,7 +27,7 @@
 ## 💌 Social
 <a href="mailto:sinebi223@naver.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a></a>&ensp;<a>
 <a href="https://www.notion.so/Code-Study-1cb7cb1a1324808ca933d45c63fb01b3?source=copy_link" target="_blank"><img src="https://img.shields.io/badge/Notion-%23FFFFFF?style=flat&logo=notion&logoColor=black"/></a>&ensp;<a>
-<a href="https://www.youtube.com/watch?v=_g0ZFo9zKJc" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23ff0033?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@sac5222/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23ff0033?style=flat&logo=youtube&logoColor=white"/></a>
 </a>
 </a>
 <br/>
